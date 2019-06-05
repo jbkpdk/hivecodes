@@ -3,7 +3,7 @@ Automated redeemer of Hive codes connecting to repository of codes and with poss
 
 ## how to use?
 
-1. Download hivecodes_redeemer file
+1. Download latest version of hivecodes_redeemer file from [Releases](https://github.com/jbkpdk/hivecodes/releases/latest)
 1. Double-click the downloaded file or run ```./hivecodes_redeemer``` in Terminal
 1. Provide login and password to your Hive accont
 1. Wait until all codes are redeemed

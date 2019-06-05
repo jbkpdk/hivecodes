@@ -1,9 +1,24 @@
 hivemyride
 hivegift
+mytaxivip
+hellolisbon
+hellowroclaw
+hellovienna
+helloathens
+hellowarsaw
 hallowien
 hivewithelena
 hivewithfotini
 hivepigout
+hiverider
+hiveforfree
+hivebunny
+hivemodnytata
+helloparis
+helloecho24
+sunnyhive
+hivewithdimitris
+beespring
 hivelifemanagerka
 hiveinstawarszawa
 beeforfree
@@ -42,11 +57,6 @@ wwa-arkadia
 wwa-falenica
 wwa-zachodni
 wwa-centralny
-hellolisbon
-hellowroclaw
-hellovienna
-helloathens
-hellowarsaw
 wwa-marymont
 wwa-wars
 wwa-sawa
@@ -59,9 +69,9 @@ wwa-wawer
 wwa-moko
 wwa-mokotow
 wwa-targowek
-wwa- zoliborz
+wwa-zoliborz
 wwa-wola
-wwa- politechnika
+wwa-politechnika
 wwa-lotnisko
 wwa-lazienki
 wwa-bielany
@@ -77,12 +87,3 @@ wwa-pole
 wwa-w84m
 wwa-sushi
 wwa-syrenka
-hiverider
-hiveforfree
-hivebunny
-hivemodnytata
-helloparis
-helloecho24
-sunnyhive
-hivewithdimitris
-beespring

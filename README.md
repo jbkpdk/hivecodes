@@ -3,13 +3,16 @@ Automated redeemer of Hive codes connecting to repository of codes and with poss
 
 ## how to use?
 
-Download hivecodes_redeemer.sh file.
+1. Download hivecodes_redeemer file
+1. Double-click the downloaded file or run ```./hivecodes_redeemer``` in Terminal
+1. Provide login and password to your Hive accont
+1. Wait until all codes are redeemed
 
-Run ```sh hivecodes_redeemer.sh``` in Terminal.
+## other
 
-Provide login and password to your Hive accont.
-
-PROFIT.
+- Tested on macOS 10.14.5, requires wget (```brew install wget```)
+- Codes are taken from ```codes.txt```, add new codes via pull-request
+- In the future other services based on WunderFleet (ex-FleetBird) may be supported
 
 ## disclaimer
 
